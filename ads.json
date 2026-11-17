@@ -1,0 +1,34 @@
+{
+  "ads": [
+    {
+      "id": "nova_vip_global_01",
+      "slot": "popup",
+      "enabled": true,
+      "expiresAt": "2027-12-31",
+      "countries": ["*"],
+      "os": ["*"],
+      "weight": 2,
+      "tag": "SPONSORED",
+      "badgeText": "70% OFF",
+      "title": "Unlock Nova VIP Ultra — 32-Thread Max Speed",
+      "description": "Get 10x faster 4K/8K downloads & priority mirrors. Limited offer!",
+      "ctaText": "Claim Offer ↗",
+      "targetUrl": "https://github.com/SadaatAliCoder/updater_public"
+    },
+    {
+      "id": "sponsor_sample_sidebar_01",
+      "slot": "sidebar",
+      "enabled": false,
+      "expiresAt": "2027-12-31",
+      "countries": ["*"],
+      "os": ["*"],
+      "weight": 1,
+      "tag": "PARTNER",
+      "badgeText": "NEW",
+      "title": "Fast Cloud Backup — 1TB Free Trial",
+      "description": "Sync your downloaded courses & software safely.",
+      "ctaText": "Try Free ↗",
+      "targetUrl": "https://example.com/sponsor"
+    }
+  ]
+}
